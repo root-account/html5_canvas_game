@@ -1,0 +1,58 @@
+body{
+	background: #1c0505;
+}
+
+#canvas{
+	
+}
+#myCan{
+	width: 1000px;
+	margin: 0 auto;
+	margin-bottom: 0px;
+	box-shadow: 0 0 17px #3d3f65;
+	margin-bottom: 2%;
+}
+#statsBord{
+	background-color: #350f0f;
+	color: white;
+	width: 98%;
+	padding: 1%;
+	font-family: comic sans MS;
+}
+
+#menus{
+	background-color: #350f0f;
+	color: white;
+	width: 98%;
+	padding: 1%;
+	font-family: comic sans MS;
+}
+
+.menuBtn{
+	display: block;
+	position: relative;
+	width: 80px;
+	background: #421818;
+	padding: 1%;
+	text-decoration: none;
+	font-family: comic sans MS;
+	border-radius: 13px;
+	border:1px solid #2c0b0b;
+	color: white;
+	margin: 0 auto;
+}
+
+.menuBtn:hover{
+	display: block;
+	position: relative;
+	width: 80px;
+	background: #310d0d;
+	padding: 1%;
+	text-decoration: none;
+	font-family: comic sans MS;
+	border-radius: 13px;
+	border:1px solid #2c0b0b;
+	color: #5a5a5a;
+	margin: 0 auto;
+}
+
