@@ -22,7 +22,7 @@ var cruze = true;
 var showFuel = true;
 var score = 0;
 var obsSpeed = 6;
-var plyrSpeed = 5;
+var plyrSpeed = 6;
 
 //Put obstacles at random locations
 var obsY = Math.floor(Math.random() * cH);
